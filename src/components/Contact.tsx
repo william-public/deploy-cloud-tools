@@ -160,8 +160,8 @@ const Contact = () => {
                   Get a detailed DevOps assessment and custom automation roadmap within 24 hours.
                 </p>
                 <div className="text-cyan-400 font-semibold">
-                  📧 hesbon@devopsautomation-suite.com<br />
-                  📞 + (254) 743 573 380-DEVOPS
+                  📧 rabikhan2001m@gmail.com<br />
+                  📞 +1 (646) 481-2283
                 </div>
               </div>
             </div>
